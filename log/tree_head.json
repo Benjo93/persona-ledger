@@ -1,7 +1,7 @@
 {
-  "tree_size": 23,
-  "root_hash": "6d38133ec9d190661dfa58629eccc954e44d4b90a64e87c034675c05b714b8c1",
-  "timestamp": "2026-02-19T19:50:57.912763+00:00",
-  "agent": "sydney",
-  "signature": "MEUCIFVi1c0G25O9iE6xVU+PczDLLmvtFpRofz94T21yx/B/AiEA8tFmobmJ3pwz0nWow4+4tuO14CRDBKabIJRvAbgrIqc="
+  "tree_size": 18,
+  "root_hash": "02efe225afed354dfb5fd2637fcbb1ecc7a101c30c8347f51cb5c6d93c7ec382",
+  "timestamp": "2026-02-19T19:51:57.292797+00:00",
+  "agent": "mob",
+  "signature": "MEYCIQDthtQAqJiG28cjIcjkw+n5fRfjLaCIJWx/YHT3SXLwRQIhALGZpG5DphJfDYnQX/fkIHH0HiciOuC8JikX5uYfyrdW"
 }
